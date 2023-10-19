@@ -1,0 +1,522 @@
+/* CSS CODE: */
+
+.container-lg {
+    background-image: url(bg-GDSC.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+
+.navbar {
+    margin-left: 300px;
+
+
+}
+
+
+.span {
+    color: rgb(219, 47, 47);
+}
+
+.name {
+    margin-top: -40px;
+    margin-left: 10px;
+    position: fixed;
+    background-color: white;
+    height: 40px;
+
+}
+
+.container-fluid {
+    position: fixed;
+    background-color: white;
+    height: 40px;
+    width: 100%;
+}
+
+
+.nav-link {
+    font-family: serif;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    font-weight: 900;
+}
+
+
+
+
+.intro {
+    margin-left: 140px;
+    margin-top: 100px;
+}
+
+.resume {
+    margin-top: -2px;
+}
+
+
+
+
+.button {
+    border-radius: 10px;
+    margin-left: 135px;
+    display: inline-block;
+    padding: 5px 10px;
+    /* Adjust the padding to your preference */
+    background-color: #085cda;
+    /* Change the color to your desired color */
+    color: white;
+    /* Text color */
+    text-decoration: none;
+    /* Remove underline from the link */
+    border-radius: 10px;
+    /* Rounded corners */
+}
+
+.img {
+    /* border-radius: 600px; */
+    height: 300px;
+    width: 200px;
+    margin-left: 600px;
+    margin-top: -150px;
+}
+
+
+.h3-about {
+    margin-left: 300px;
+    padding-top: 40px;
+}
+
+.about-img {
+    width: 200px;
+    height: 200px;
+    margin-right: 60px;
+    margin-left: 5px;
+}
+
+.container-about {
+    display: flex;
+    align-items: center;
+}
+
+.content-a {
+
+    font-weight: 500;
+}
+
+.h2-name {
+    position: fixed;
+
+}
+
+
+.h2-work {
+    margin-left: 375px;
+    padding-top: 40px;
+}
+
+.container-1 {
+    display: flex;
+    padding: -5px;
+
+}
+
+
+.container-2 {
+    display: flex;
+    padding: 1rem;
+}
+
+.box-1 {
+    height: 400px;
+    border-radius: 15px;
+    padding: 1rem;
+    background-color: #08daa26f;
+    width: 350px;
+    border-color: black;
+    margin-left: 100px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    /* Add a transition for smooth hover effect */
+}
+
+.box-1:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+    /* Change the background color on hover to your desired color */
+
+}
+
+
+
+.img-1 {
+    width: 300px;
+    height: 200px;
+    margin-left: 8px;
+    border-radius: 10px;
+
+}
+
+
+.h4-port {
+    padding-left: 100px;
+}
+
+
+.github-icon {
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    opacity: 1;
+    /* Icon is visible by default */
+    transition: opacity 0.3s ease;
+    /* Add a transition for smooth appearance on hover */
+}
+
+
+.box-2 {
+    height: 400px;
+    border-radius: 15px;
+    padding: 1rem;
+
+    background-color: #08daa26f;
+    width: 350px;
+    border-color: black;
+    margin-left: 120px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    /* Add a transition for smooth hover effect */
+}
+
+.img-2 {
+    width: 300px;
+    height: 200px;
+    margin-left: 8px;
+    border-radius: 10px;
+
+}
+
+.h4-con {
+    padding-left: 90px;
+}
+
+
+.box-2:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+    /* Change the background color on hover to your desired color */
+
+}
+
+.box-3 {
+    height: 400px;
+    border-radius: 15px;
+    padding: 1rem;
+    background-color: #08daa26f;
+    width: 350px;
+    border-color: black;
+    margin-left: 90px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    /* Add a transition for smooth hover effect */
+}
+
+.box-3:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+    /* Change the background color on hover to your desired color */
+
+}
+
+
+
+.img-3 {
+    width: 300px;
+    height: 200px;
+    margin-left: 8px;
+    border-radius: 10px;
+
+}
+
+
+.h2-skills {
+    margin-left: 400px;
+    padding-top: 40px;
+}
+
+/* SKILLS BOX */
+
+
+.container-3 {
+    display: flex;
+}
+
+.box-4 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 100px;
+    margin: 1rem;
+
+}
+
+.box-4:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+.html {
+    height: 70px;
+    width: 70px;
+    margin-top: 28px;
+    margin-left: 14px;
+}
+
+.h4-html {
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+.h5-html {
+    margin-left: 28px;
+    margin-top: 5px;
+}
+
+.box-5 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 100px;
+    margin: 1rem;
+
+}
+
+.box-5:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+.box-6 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 150px;
+    margin: 1rem;
+
+}
+
+
+.box-6:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+.h6-html {
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.html-boot {
+    height: 70px;
+    width: 70px;
+    margin-top: 28px;
+    margin-left: 40px;
+}
+
+.h3-s1 {
+    margin-left: 200px;
+}
+
+.h3-s2 {
+    margin-left: 350px;
+}
+
+.skills {
+    display: flex;
+}
+
+
+.box-7 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 100px;
+    margin: 1rem;
+    margin-left: 180px;
+
+}
+
+
+.box-7:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+.h7-html {
+    margin-top: 5px;
+    margin-left: 35px;
+}
+
+.box-8 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 100px;
+    margin: 1rem;
+
+
+}
+
+.box-8:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+.h8-html {
+    margin-top: 5px;
+    margin-left: 23px;
+}
+
+.box-9 {
+    height: 150px;
+    background-color: #08daa26f;
+    border-radius: 10px;
+    width: 100px;
+    margin: 1rem;
+
+
+}
+
+.h9-html {
+    margin-top: 5px;
+    margin-left: 14px;
+}
+
+.box-9:hover {
+    background-color: rgba(89, 144, 134, 0.732);
+}
+
+
+
+/* CONTACT */
+
+
+.contact-section{
+    display: flex;
+}
+
+.h2-l1 {
+    margin-left: 260px;
+}
+
+.h2-l2 {
+    margin-left: 500px;
+}
+
+
+
+.h2-l3 {
+    margin-left: 300px;
+}
+
+.h2-l1{
+    padding-top: 40px;
+}
+
+.img-contact {
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+    background-color: transparent;
+}
+
+.linkdin {
+    display: flex;
+    background-color: rgba(0, 0, 255, 0.853);
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.img-l {
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 30px;
+}
+
+.h5-linkdin {
+    margin-top: 8px;
+    margin-left: 5px;
+    color: white;
+}
+
+.email{
+    display: flex;
+    background-color: rgb(238, 98, 98);
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.img-e {
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+
+
+}
+
+.h5-email{
+    margin-top: 8px;
+    margin-left: 5px;
+    color: white;
+}
+
+.a-l{
+    color: rgba(0, 0, 255, 0.853);
+}
+.a-e{
+    color:rgb(238, 98, 98) ;
+}
+
+.connection{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+
+.github{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.925);
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+
+
+.img-g {
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+
+
+}
+
+.h5-git{
+    margin-top: 8px;
+    margin-left: 5px;
+    color: white;
+}
+
+.a-g{
+    color:rgba(0, 0, 0, 0.925) ;
+}
+
